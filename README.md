@@ -1,4 +1,5 @@
 QuizSphere is a Microservices-based Quiz Management System developed using Spring Boot. 
+
 The application consists of four independent services: Gateway Service, Question Service, Quiz Service, and Service Registry.
 The Service Registry enables service discovery, while the Gateway Service acts as a single entry point for client requests. 
 The Quiz Service communicates synchronously with the Question Service to fetch and manage quiz questions. 
