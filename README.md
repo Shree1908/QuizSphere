@@ -36,17 +36,10 @@ Maven
 Key Features
 
 Microservices Architecture
-
 Service Discovery and Registration using Netflix Eureka
-
 Centralized API Routing through Spring Cloud Gateway
-
 Synchronous Inter-Service Communication using OpenFeign
-
 Health Monitoring and Metrics using Spring Boot Actuator
-
 Reactive Gateway Implementation with WebFlux
-
 Scalable and Maintainable Distributed System Design
-
 Author Shree Kalyankar.
