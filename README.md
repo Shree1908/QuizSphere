@@ -32,7 +32,6 @@ WebFlux
 
 Maven
 
-
 Key Features:
 Microservices Architecture
 Service Discovery and Registration using Netflix Eureka,
